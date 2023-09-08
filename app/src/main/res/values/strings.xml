@@ -5,4 +5,12 @@
     <string name="txt_name_account">Nombre de la cuenta</string>
     <string name="txt_account_type">Tipo de cuenta</string>
     <string name="txt_initial_balance">Saldo inicial</string>
+    <string name="txt_nombre_de_cuenta">Nombre de cuenta</string>
+    <string name="txt_saldo">Saldo</string>
+    <string name="txt_tipo_de_cuenta">Tipo de cuenta</string>
+    <string name="txt_cuenta_de_ahorros">Cuenta de ahorros</string>
+    <string name="txt_saldo_mod">10.234.232,00</string>
+    <string name="txt_simbol_money">$</string>
+    <string name="bnt_editar_text">Editar</string>
+    <string name="bnt_eliminar_text">Eliminar</string>
 </resources>
