@@ -1,4 +1,4 @@
-package com.elsanti.mywalleapp;
+package com.ManuelPedraa.mywalleapp;
 
 import android.view.LayoutInflater;
 import android.view.View;
