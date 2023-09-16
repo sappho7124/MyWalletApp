@@ -1,4 +1,4 @@
-package com.ManuelPedraa.mywalleapp;
+package com.elsanti.mywalleapp;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.ManuelPedraa.mywalleapp", appContext.getPackageName());
+        assertEquals("com.elsanti.mywalleapp", appContext.getPackageName());
     }
 }
