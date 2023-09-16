@@ -1,4 +1,4 @@
-package com.ManuelPedraa.mywalleapp;
+package com.elsanti.mywalleapp;
 
 public class Account {
 
